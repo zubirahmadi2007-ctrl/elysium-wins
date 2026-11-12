@@ -10,7 +10,7 @@ const videos = [
 
 // Screenshot filenames inside the images/ folder, sorted by name.
 // Example: const screenshots = ["win-01.jpg", "win-02.png"];
-const screenshots = ["Screenshot 2026-11-12 at 1.40.44PM.png", "Screenshot 2026-11-12 at 1.40.54PM.png", "Screenshot 2026-11-12 at 1.41.06PM.png", "Screenshot 2026-11-12 at 1.41.15PM.png", "Screenshot 2026-11-12 at 1.41.29PM.png", "Screenshot 2026-11-12 at 1.41.38PM.png", "Screenshot 2026-11-12 at 1.41.48PM.png", "Screenshot 2026-11-12 at 1.42.03PM.png"];
+const screenshots = ["60347846-05fb-4961-a281-a84f498c99c2.JPG", "IMG_4632.jpeg", "IMG_4876.jpeg", "Screenshot 2026-11-12 at 1.40.44PM.png", "Screenshot 2026-11-12 at 1.40.54PM.png", "Screenshot 2026-11-12 at 1.41.06PM.png", "Screenshot 2026-11-12 at 1.41.15PM.png", "Screenshot 2026-11-12 at 1.41.29PM.png", "Screenshot 2026-11-12 at 1.41.38PM.png", "Screenshot 2026-11-12 at 1.41.48PM.png", "Screenshot 2026-11-12 at 1.42.03PM.png", "e84dbeb1-d385-4f6f-9bd5-f66380256f39.JPG"];
 
 // ===== RENDERING (no need to edit below) =====
 
